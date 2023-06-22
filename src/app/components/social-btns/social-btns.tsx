@@ -17,9 +17,7 @@ export function SocialBtns(){
             <a href="https://github.com/pedr_luna">
                 <GitHubIcon/>
             </a>
-            <a href="https://www.instagram.com/pedr_luna/">
-                <InstaIcon/>
-            </a>
+
         </div>
     )
 }
